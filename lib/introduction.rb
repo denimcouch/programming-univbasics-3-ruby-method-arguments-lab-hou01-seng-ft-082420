@@ -1,5 +1,5 @@
 def introduction(name)
-  
+  puts "Hi"
 end
 
 def introduction_with_language
