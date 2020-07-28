@@ -5,7 +5,8 @@ end
 introduction "Josh"
 introduction "Dan"
 
-def introduction_with_language
+def introduction_with_language(name, language)
+  puts "Hi, my name is"
 end
 
 def introduction_with_language_optional
